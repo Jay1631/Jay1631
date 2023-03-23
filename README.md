@@ -6,10 +6,7 @@
 
 # 💫 About Me:
 <p>Hi! My name is <span> Jay Itkal </span> and I am a skilled Technical Support Engineer with a belief in building good customer relationships. Passionate about providing technical assistance, Dedicated to maintaining high customer satisfaction by delivering prompt and effective technical solutions. Ability to handle any part of the process with ease.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jay-itkal-71b558249/](https://www.linkedin.com/in/jay-itkal-71b558249/))(https://www.linkedin.com/in/jay-itkal-71b558249/)
-
+ 
  <h3>
   <a href="(https://drive.google.com/file/d/1Z9aE65JESktgb6J8Np52rd48xyNXtVJ5/view?usp=share_link)" target="_blank"> Resume </a>
 </h3>
