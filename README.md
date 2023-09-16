@@ -16,6 +16,7 @@
 ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=NetworkingDB5&logoColor=white)![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white)
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jay1631)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay1631&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
